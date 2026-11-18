@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Ashish 👋<br><br>💻 Go & JavaScript Developer  <br>🌐 Building Websites, Discord Bots & Android Apps  <br>🔐 Interested in Cybersecurity & Security Tools  <br>🎨 HTML | CSS | JavaScript | Go  <br>🚀 Always learning, building & experimenting with tech.<br><br>
+Hey, I'm Ashish 👋<br><br>💻 Go & JavaScript Developer  <br>🌐 Building Websites, Discord Bots & Android Apps  <br>🔐 Interested in Cybersecurity & Security Tools  <br>🎨 HTML | CSS | JavaScript | Go  <br>🚀 Always learning, building & experimenting with tech.<br><br>
 
 
 ## 🌐 Socials:
